@@ -1,6 +1,7 @@
 ### Hello World! here I'm, Janah 👋
 🔭 I’m currently working on public service
-- 🌱 I’m currently learning  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" width="22" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" width="22" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" width="22"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" height="22" width="22"/> 
+- 🌱 I’m currently learning  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" width="22" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" width="22" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" width="22"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"  height="22" width="22" />
+          
 - 🤔 I’m looking for help with databases
 - 💬 Ask me about anything!!!
 - 📫 How to reach me: janah.picoli@gmail.com
