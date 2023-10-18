@@ -8,9 +8,8 @@
 - 💬 Ask me about anything!!!
 - 📫 How to reach me: janah.picoli@gmail.com
 - 😄 Pronouns: Jana, Janah, Ynynhaa, miiigaa (Janayna only when my mom is mad at me hahah)
-- ⚡ Fun fact: I'm married to Jaison, Davi's mom and a public servant for almost 20 years!
-And I'm currently committed to learning how to be a front-end developer
-
+- ⚡ Fun fact: I'm married to Jaison, Davi's mother.
+I'm currently learning how to make games in the Lua language!
 <!--
 **JanahPicoli/JanahPicoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
