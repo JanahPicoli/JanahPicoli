@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with databases
 - 💬 Ask me about anything!!!
 - 📫 How to reach me: janah.picoli@gmail.com
-- 😄 Pronouns: Jana, Janah, Ynynhaa, miiigaa (Janayna only when my mom is mad at me hahah)
+- 😄 Pronouns: Jana, Janah)
 - ⚡ Fun fact: I'm married to Jaison, Davi's mother.
 I'm currently learning how to make games in the Lua language!
 <!--
